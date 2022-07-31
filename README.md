@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **georgiazrk/georgiazrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my studies lol
 - 📫 How to reach me: gzrkearns@gmail.com
 - 😄 Pronouns: she/her
--->
