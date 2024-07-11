@@ -1,5 +1,3 @@
-I am an aspiring Software Engineer, currently working towards a Bachelor of Applied Information Technology at Wintec. 
-I am excited to start my career in the IT industry, full of challenges that will allow me to grow and learn more everyday. 
-My passion lies in problem solving, especially those problems that will lead to solutions that make life easier for others in their jobs and lives.
+In April 2024 I permanently relocated to Brisbane from Auckland, New Zealand. I am continuing to work remotely with my New Zealand employer until I find a suitable role in Australia. I am a self motivated, recent graduate specialising in software development, with some industry experience. I'm passionate about user-centric design and innovative solutions. Analytical, observant, effective communicator and willing to learn.
 
 Contact me via email: gzrkearns@gmail.com
